@@ -18,6 +18,9 @@ allprojects {
     }
 }
 
+
+//添加一个注释
+//添加二哥测试
 task clean(type: Delete) {
     delete rootProject.buildDir
 }
